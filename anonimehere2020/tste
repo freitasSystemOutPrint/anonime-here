@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>1º TELA</title>
+  </head>
+  <body>
+    <h1></h1>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+
+  
+
+    
+    <!--Logos Pizzas up -->
+      
+      <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-pizzaria-png-2.png" style="width:70px">
+      <img src="https://i.ya-webdesign.com/images/pizza-text-png-2.png" style="width:70px" >
+      <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-pizzaria-png-2.png" style="width:70px">
+      <img src="https://i.ya-webdesign.com/images/pizza-text-png-2.png" style="width:70px" >
+      <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-pizzaria-png-2.png" style="width:70px">
+
+      <div class="media-body">
+        
+        <h5></h5>
+        <p></p>
+      </div>
+    </div>
+  <!-- Fim Logos Pizzas up -->
+
+
+<!-- Inicio form -->
+
+
+<form method="get" action="back.php">
+    <h4>SEJA BEM VINDO A MEGA PIZZA<br></h4>
+    <p>FAÇA SEU PEDIDO POR AQUI, MAS PRIMEIRO
+    DIGITE SEU NOME E SEU ENDEREÇO</p>
+
+
+    <div class="form-group">
+      <label for="nomeCliente">NOME:</label>
+      <input type="text" id="nomeClie" name="nomeCliente" class="form-control">
+  </div>
+
+    <div class="form-group">
+      <label for="enderecoCliente">ENDEREÇO: </label>
+      <input type="text" id="enderecoClie" name="enderecoCliente" class="form-control">
+  </div>
+
+  <div class="form-group">
+      <label for="telefoneCliente">TELEFONE: </label>
+      <input type="text" id="telefoneClie" name="telefoneCliente" class="form-control">
+  </div>
+
+
+  <a href="">
+  <button class="btn btn-primary">Fazer Pedido</button>
+  </a>
+  </form>
+
+  <!-- fim form -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<div class="2tela"></div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>

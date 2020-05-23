@@ -1,0 +1,110 @@
+	body
+		{
+			background: lightblue;
+			text-align: center;
+        }
+        
+        header
+{
+    color: white;
+    text-align: center;
+    
+}
+
+
+/*#content {
+    transform: scale(5.0);
+    transform-origin: 0 0;
+    /*Safari e Chrome antigos*/
+    -webkit-transform: scale(2.0);
+    -webkit-transform-origin: 0 0;
+
+    /*Firefox mais antigo*/
+    -moz-transform: scale(2.0);
+    -moz-transform-origin: 0 0;
+
+    /*IE 9*/
+    -ms-transform: scale(2.0);
+    -ms-transform-origin: 0 0;
+
+    /*navegadores atualizados*/
+    transform: scale(2.0);
+    transform-origin: 0 0;
+}*/
+
+p
+{
+    display:inline-block;
+    font: 1rem 'Fira Sans', sans-serif;
+    background: rgb(155, 197, 245);
+    border-radius: 15px;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.801);
+}
+
+h2
+{
+    background: rgb(155, 197, 245);
+    font: 1rem 'Fira Sans', sans-serif;
+    border-radius: 15px;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.801);
+}
+
+h4
+{
+    color: lightblue;
+}
+
+label  {
+    display:inline-block;
+    font: 1rem 'Fira Sans', sans-serif;
+    background: rgb(155, 197, 245);
+    border-radius: 15px;
+    padding: 15px;
+    width: 100px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.801);
+}
+
+input#botao
+{
+    color:#0770B0;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	//margin:0px;
+	//padding:0px;
+	font-weight:900;
+    width: 300px;
+   
+    
+
+
+
+
+}
+
+input
+{
+    display:inline-block;
+    background: rgb(155, 197, 245);
+    font: 1rem 'Fira Sans', sans-serif;
+    border-radius: 15px;
+    padding: 15px;
+    width: 200px;
+    margin: auto;
+    
+}
+
+
+
+
+footer
+{
+    display:inline-block;
+   
+}
